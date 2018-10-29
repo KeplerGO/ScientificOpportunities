@@ -5,7 +5,7 @@ Useful Software
 Many tools have been developed to solve related scientific and data analysis problems that are applicable to Kepler data.
 On this page we list community-produced software that may be useful in your analysis!
 
-If your software is not listed, please `open a Pull Request <https://github.com/KeplerGO/lightkurve/blob/master/docs/source/other_software.rst>`_ to add it!
+If your software is not listed, please open a Pull Request to add it!
 
 
 Detrending & Analysis
