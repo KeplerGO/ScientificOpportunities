@@ -15,7 +15,7 @@ Detrending & Analysis
 - `everest <http://github.com/rodluger/everest>`_ : De-trending of K2 Light curves
 - `k2sc <http://github.com/OxES/k2sc>`_ : K2 systematics correction using Gaussian processes
 - `nutella <http://github.com/benmontet/nutella>`_ : Great (point) spreads for beautiful Kepler/K2 inference
-- `skope <http://github.com/nksaunders/skope>`_ : Synthetic K2 Objects for PLD Experimentation
+- `scope <http://github.com/nksaunders/scope>`_ : Simulated CCD Observations for Photometric Experimentation
 - `k2phot <http://github.com/petigura/k2phot>`_ : public k2phot code from Erik Petigura
 - `K2-CPM <http://github.com/jvc2688/K2-CPM>`_ : K2 Causal Pixel Model
 - `halophot <https://github.com/hvidy/halophot/>`_ : K2 Halo Photometry for very bright stars
